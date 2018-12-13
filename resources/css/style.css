@@ -26,4 +26,13 @@ body {
 .caption {
   font-size: 21px;
   color: grey;
+  font-weight: normal;
+}
+
+/* copyright */
+#copyright {
+  color: grey;
+  text-align: right;
+  font-weight: normal;
+  font-size: 21px;
 }
